@@ -1,4 +1,4 @@
-Here’s your **all-in-one `README.md`** file, neatly formatted for GitHub. Just copy and paste it into your repo's root:
+
 
 ```markdown
 # 🧑‍💻 Freelance Finder – SB Works (MERN Stack)
@@ -204,4 +204,4 @@ Thank you to everyone who contributed to this project’s vision and development
 Feel free to customize any section—add or remove screenshots, update future ideas, refine descriptions. If you need help loading this directly into your GitHub repository or generating diagrams for `/docs`, I’m happy to help!
 ```
 ![Image](https://github.com/user-attachments/assets/e3e35cbd-6771-4816-9c22-017ebaea6d5f)
-https://github.com/user-attachments/assets/14a9e933-d9b3-490b-a4c0-59a1fc559b11
+
